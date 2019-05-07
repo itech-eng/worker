@@ -5,9 +5,9 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/qor/admin"
-	"github.com/qor/responder"
-	"github.com/qor/roles"
+	"github.com/itech-eng/admin"
+	"github.com/itech-eng/responder"
+	"github.com/itech-eng/roles"
 )
 
 type workerController struct {
